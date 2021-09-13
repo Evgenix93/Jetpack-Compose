@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aperture</string>
+    <string name="startInfo1">Создавайте снимки, публикуйте, собирайте аудиторию, получайте фидбек</string>
+    <string name="startInfo2">Делитесь с друзьями, собирайте коллекции</string>
+    <string name="startInfo3">Загружайте любимые снимки и отслеживайте статистику</string>
+    <string name="login">Войти через unsplash</string>
+    <string name="search">search</string>
+    <string name="more">Больше</string>
+    <string name="photoList">Лента</string>
+    <string name="photo">Фото</string>
+    <string name="collections">Коллекции</string>
+    <string name="collection">Коллекция</string>
+    <string name="profile">Профиль</string>
+    <string name="downloadSuccess">Фотография успешно загружена</string>
+    <string name="downloadError1">Ошибка сети:загрузка продолжится позже</string>
+    <string name="noConnection1">Нет сети. Обновите страницу</string>
+    <string name="noConnection2">Нет сети</string>
+    <string name="noConnection3">Нет сети: фотографии загружены с телефона</string>
+    <string name="noConnection4">Нет сети: коллекции загружены с телефона</string>
+    <string name="download">Скачать(%1$d)</string>
+    <string name="downloadError2">Ошибка загрузки</string>
+    <string name="profilePhotos">%1$s \n Фотографии</string>
+    <string name="likedPhotos">%1$s\nПонравившиеся фотографии</string>
+    <string name="profileCollections">%1$s \n Коллекции</string>
+    <string name="photoCount">%1$d ФОТОГРАФИЙ</string>
+    <string name="emptyList">Пусто</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aperture</string>
+    <string name="startInfo1">Create snapshots, post, build an audience, get feedback</string>
+    <string name="startInfo2">Share with friends, collect collections</string>
+    <string name="startInfo3">Upload your favorite pictures and track statistics</string>
+    <string name="login">Login with unsplash</string>
+    <string name="search">search</string>
+    <string name="more">More</string>
+    <string name="photoList">Photos</string>
+    <string name="photo">Photo</string>
+    <string name="collections">Collections</string>
+    <string name="collection">Collection</string>
+    <string name="profile">Profile</string>
+    <string name="downloadSuccess">Photo is downloaded successfully</string>
+    <string name="downloadError1">No connection: downloading will continue later</string>
+    <string name="noConnection1">No connection. Update page</string>
+    <string name="noConnection2">No connection</string>
+    <string name="noConnection3">No connection: photos downloaded from phone</string>
+    <string name="noConnection4">No connection: collections downloaded from phone</string>
+    <string name="download">Download(%1$d)</string>
+    <string name="downloadError2">Download error</string>
+    <string name="profilePhotos">%1$s \n Photos</string>
+    <string name="likedPhotos">%1$s \n Liked photos</string>
+    <string name="profileCollections">%1$s \n Collections</string>
+    <string name="photoCount">%1$d PHOTOS</string>
+    <string name="emptyList">Empty</string>
+</resources>

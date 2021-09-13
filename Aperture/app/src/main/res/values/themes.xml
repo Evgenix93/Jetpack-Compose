@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Aperture" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/dark_green</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="snackbarStyle">@style/Widget.MaterialComponents.Snackbar.FullWidth</item>
+        <item name="bottomNavigationStyle">@style/bottomNavigationStyle</item>
+    </style>
+
+    <style name="bottomNavigationStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="materialThemeOverlay">@style/materialThemeOverlay</item>
+    </style>
+
+    <style name="materialThemeOverlay" parent="">
+        <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="ToolbarStyle">
+        <item name="android:background">@color/green</item>
+        <item name="android:popupTheme">@style/Theme.MaterialComponents.Light</item>
+    </style>
+
+    <style name="SnackbarStyle" parent="Widget.MaterialComponents.Snackbar.FullWidth">
+        <item name="backgroundTint">@color/translucent2</item>
+    </style>
+</resources>
