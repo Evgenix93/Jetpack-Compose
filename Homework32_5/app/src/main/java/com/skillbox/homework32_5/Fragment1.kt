@@ -69,9 +69,8 @@ class Fragment1 : Fragment(R.layout.fragment1) {
             .show()
     }
 
-    override fun onDestroy() {
-        super.onDestroy()
-        Log.d("MyTag", "onDestroy")
+    override fun onDestroyView() {
+        super.onDestroyView()
+        productAdapter = null
     }
-
 }

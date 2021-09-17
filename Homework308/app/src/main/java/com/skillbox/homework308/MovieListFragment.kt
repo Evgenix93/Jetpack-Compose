@@ -47,11 +47,6 @@ class MovieListFragment : Fragment(R.layout.movie_list) {
     override fun onDestroyView() {
         super.onDestroyView()
         viewModel.cancelJob()
-
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
         movieAdapter = null
     }
 }
