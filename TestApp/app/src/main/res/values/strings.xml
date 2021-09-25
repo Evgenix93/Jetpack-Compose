@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="name">%1s %2s</string>
+    <string name="email">email: %1s</string>
+    <string name="userList">Пользователи</string>
+    <string name="appInfo">Информация</string>
+    <string name="info">Тестовое задание для Rentateam</string>
+</resources>
